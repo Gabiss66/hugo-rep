@@ -1,49 +1,18 @@
-# Hugo Start
+title: "fantazie"
 
-A simple hugo boilerplate showing some of Hugo's functionality.
+# **Vliv fantazie na percepci reálného světa**
 
+Cílem je prozkoumat roli fantazie ve společnosti, jaký je její skutečný účel, a co pro nás znamená (jak ve smyslu naší představivosti, tak v knihách).
 
-## Quick Start
+Fantazie je životně důležitá pro lidskou mysl. Začíná to jako psychologický proces, kterým se dítě naučí naplnit mezery mezi znalostí, skutečností a zkušenostmi a stane se důležitým mechanismem pro zvládnutí různých situací v dospělosti. Toto téma je na českých stránkách zastoupeno velmi málo a otázky typu proč děti spontánně vybírají nereálné nad skutečností, jak fantazie ovlivňuje naše rozhodování a emoční (ne)stabilitu apod. jsou rozhodně pozoruhodné a odpovědi by určitě zaujaly nemálo lidí.
 
-- Download [latest release](rel) and unzip into your working directory. 
-- Rename the folder as you want.
-- Navigate to this folder in your command line (PowerShell in Windows, Terminal in macOS or Linux).
-- Run `hugo server`. 
-- Hugo should return several messages (see code below). There is an address that allows opening the website in your browser: below it's `http://localhost:1313/hugo-start/`.
+**Zdroje k tématu:**
+https://medicalxpress.com/news/2009-03-real-brain-differentiates-reality-fantasy.html
 
-```
-$ hugo server
+https://www.psychologytoday.com/blog/pathological-relationships/201212/fantasy-and-it-s-effect-your-reality
 
-                   | EN  
-+------------------+----+
-  Pages            | 21  
-  Paginator pages  |  0  
-  Non-page files   |  0  
-  Static files     |  2  
-  Processed images |  0  
-  Aliases          |  0  
-  Sitemaps         |  1  
-  Cleaned          |  0  
+https://www.theguardian.com/books/booksblog/2007/apr/23/bridgingthegapswhyweneed
 
-Total in 30 ms
-Watching for changes in /Users/<username>/Projects/start/{content,data,layouts,static}
-Serving pages from memory
-Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at http://localhost:1313/hugo-start/ (bind address 127.0.0.1)
-Press Ctrl+C to stop
-```
+http://www.slate.com/articles/arts/culturebox/2005/12/the_real_reason_children_love_fantasy.html
 
-## Best Practice
-
-When adding small changes, do not commit anything from `/docs folder`. Push changes in docs only after some milestone, preferably by a single user, so that merge conflicts do not make work with the repository difficult.
-
-Generally, built files are not to be commited exactly for this reason — but in this case, they're useful to generate a [Github Sites based website](http://jan-martinek.github.io/hugo-start/).
-
-
-## Troubleshooting
-
-- When running `hugo new`, this error is shown: **Unable to locate Config file. Perhaps you need to create a new site.** You're in a wrong folder.
-- When running any comman, this error is shown: **command not found: hugo**. Hugo is not installed correctly. Either reinstall Hugo or check whether you typed it correctly.
-
-
-[rel]: https://github.com/jan-martinek/hugo-start/releases
+Článek jsem si vybrala, protože mi toto téma přijde zajímavé.
