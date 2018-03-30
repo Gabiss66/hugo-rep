@@ -7,7 +7,7 @@ Cílem je prozkoumat roli fantazie ve společnosti, jaký je její skutečný ú
 Fantazie je životně důležitá pro lidskou mysl. Začíná to jako psychologický proces, kterým se dítě naučí naplnit mezery mezi znalostí, skutečností a zkušenostmi a stane se důležitým mechanismem pro zvládnutí různých situací v dospělosti. Toto téma je na českých stránkách zastoupeno velmi málo a otázky typu proč děti spontánně vybírají nereálné nad skutečností, jak fantazie ovlivňuje naše rozhodování a emoční (ne)stabilitu apod. jsou rozhodně pozoruhodné a odpovědi by určitě zaujaly nemálo lidí.
 
 **Zdroje k tématu:**
-https://medicalxpress.com/news/2009-03-real-brain-differentiates-reality-fantasy.html
+[odkaz 1] (https://medicalxpress.com/news/2009-03-real-brain-differentiates-reality-fantasy.html)
 
 https://www.psychologytoday.com/blog/pathological-relationships/201212/fantasy-and-it-s-effect-your-reality
 
