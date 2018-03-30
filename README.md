@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hugo Start
 
 A simple hugo boilerplate showing some of Hugo's functionality.
@@ -48,6 +47,3 @@ Generally, built files are not to be commited exactly for this reason — but in
 
 
 [rel]: https://github.com/jan-martinek/hugo-start/releases
-=======
-
->>>>>>> ec698664710fce03e128accdde9431b9a1597337

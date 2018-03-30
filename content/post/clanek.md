@@ -1,4 +1,4 @@
-title: "Vliv fantazie na percepci reálného světa"
+title: "fantazie"
 
 # **Vliv fantazie na percepci reálného světa**
 
