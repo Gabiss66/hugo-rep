@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/post/another-post/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/post/welcome-to-hugo/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/post/clanek/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/post/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/tags/beatles/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/tags/data/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/tags/hello-world/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/tags/hugo/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/tags/start/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/tags/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
