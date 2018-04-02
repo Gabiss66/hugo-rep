@@ -2,26 +2,19 @@
 title: Vliv fantazie na percepci reálného světa
 ---
 
-# Hello World! (It works!)
-stromz
-This are the contents of the Hugo start website front page.
+# **Vliv fantazie na percepci reálného světa**
 
-## Something to read: Sonnet LXVI.
+Cílem je prozkoumat roli fantazie ve společnosti, jaký je její skutečný účel, a co pro nás znamená (jak ve smyslu naší představivosti, tak v knihách).
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Fantazie je životně důležitá pro lidskou mysl. Začíná to jako psychologický proces, kterým se dítě naučí naplnit mezery mezi znalostí, skutečností a zkušenostmi a stane se důležitým mechanismem pro zvládnutí různých situací v dospělosti. Toto téma je na českých stránkách zastoupeno velmi málo a otázky typu proč děti spontánně vybírají nereálné nad skutečností, jak fantazie ovlivňuje naše rozhodování a emoční (ne)stabilitu apod. jsou rozhodně pozoruhodné a odpovědi by určitě zaujaly nemálo lidí.
 
+**Zdroje k tématu:**
+https://medicalxpress.com/news/2009-03-real-brain-differentiates-reality-fantasy.html
+
+https://www.psychologytoday.com/blog/pathological-relationships/201212/fantasy-and-it-s-effect-your-reality
+
+https://www.theguardian.com/books/booksblog/2007/apr/23/bridgingthegapswhyweneed
+
+http://www.slate.com/articles/arts/culturebox/2005/12/the_real_reason_children_love_fantasy.html
+
+Článek jsem si vybrala, protože mi toto téma přijde zajímavé.

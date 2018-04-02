@@ -38,7 +38,7 @@ To add new posts, simply add a file in the content/post directory that follows t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gabiss66.github.io/hugo-start-master/post/clanek/</guid>
-      <description>title: Vliv fantazie na percepci reálného světa
+      <description>title: Vliv fantazie na percepci reálného světa menu: main: weight: 30
 Vliv fantazie na percepci reálného světa Cílem je prozkoumat roli fantazie ve společnosti, jaký je její skutečný účel, a co pro nás znamená (jak ve smyslu naší představivosti, tak v knihách).
 Fantazie je životně důležitá pro lidskou mysl. Začíná to jako psychologický proces, kterým se dítě naučí naplnit mezery mezi znalostí, skutečností a zkušenostmi a stane se důležitým mechanismem pro zvládnutí různých situací v dospělosti.</description>
     </item>
