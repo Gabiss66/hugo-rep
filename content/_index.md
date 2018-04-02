@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Vliv fantazie na percepci reálného světa
 ---
 
 # Hello World! (It works!)
