@@ -40,11 +40,6 @@
   </url>
   
   <url>
-    <loc>https://gabiss66.github.io/hugo-start-master/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gabiss66.github.io/hugo-start-master/tags/hugo/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -64,6 +59,11 @@
     <loc>https://gabiss66.github.io/hugo-start-master/tags/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>

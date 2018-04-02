@@ -1,4 +1,7 @@
 title: Vliv fantazie na percepci reálného světa
+menu:
+  main:
+    weight: 30
 
 # **Vliv fantazie na percepci reálného světa**
 

@@ -1,9 +1,9 @@
 ---
-title: bla
+title: Vliv fantazie na percepci reálného světa
 ---
 
 # Hello World! (It works!)
-
+stromz
 This are the contents of the Hugo start website front page.
 
 ## Something to read: Sonnet LXVI.
