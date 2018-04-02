@@ -1,3 +1,5 @@
+title: "fantazie"
+
 # **Vliv fantazie na percepci reálného světa**
 
 Cílem je prozkoumat roli fantazie ve společnosti, jaký je její skutečný účel, a co pro nás znamená (jak ve smyslu naší představivosti, tak v knihách).

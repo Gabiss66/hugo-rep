@@ -38,19 +38,18 @@ To add new posts, simply add a file in the content/post directory that follows t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gabiss66.github.io/hugo-start-master/post/clanek/</guid>
-      <description>title: &amp;ldquo;Vliv fantazie na percepci reálného světa&amp;rdquo;
+      <description>title: Vliv fantazie na percepci reálného světa
 Vliv fantazie na percepci reálného světa Cílem je prozkoumat roli fantazie ve společnosti, jaký je její skutečný účel, a co pro nás znamená (jak ve smyslu naší představivosti, tak v knihách).
 Fantazie je životně důležitá pro lidskou mysl. Začíná to jako psychologický proces, kterým se dítě naučí naplnit mezery mezi znalostí, skutečností a zkušenostmi a stane se důležitým mechanismem pro zvládnutí různých situací v dospělosti.</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>O nás</title>
       <link>https://gabiss66.github.io/hugo-start-master/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gabiss66.github.io/hugo-start-master/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
+      <description>Cílová skupina: 15 - 40 let, Lidé trávící kreativně svůj čas Cíle webu: Našim cílem je vytvořit český web o tom jak je fantazie životně důležitá pro lidskou mysl a předložit možnosti, jak rozvíjet dětskou fantazii. Toto téma je na českých stránkách zastoupeno velmi málo a otázky typu proč děti spontánně vybírají nereálné nad skutečností, jak fantazie ovlivňuje naše rozhodování a emoční (ne)stabilitu apod. jsou rozhodně pozoruhodné a odpovědi by určitě zaujaly nemálo lidí.</description>
     </item>
     
   </channel>
