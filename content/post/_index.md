@@ -1,5 +1,4 @@
 ---
 title: fantazie
-ahoj
 ---
 
