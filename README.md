@@ -1,5 +1,5 @@
 # **Vliv fantazie na percepci reálného světa**
-  pes
+
 Cílem je prozkoumat roli fantazie ve společnosti, jaký je její skutečný účel, a co pro nás znamená (jak ve smyslu naší představivosti, tak v knihách).
 
 Fantazie je životně důležitá pro lidskou mysl. Začíná to jako psychologický proces, kterým se dítě naučí naplnit mezery mezi znalostí, skutečností a zkušenostmi a stane se důležitým mechanismem pro zvládnutí různých situací v dospělosti. Toto téma je na českých stránkách zastoupeno velmi málo a otázky typu proč děti spontánně vybírají nereálné nad skutečností, jak fantazie ovlivňuje naše rozhodování a emoční (ne)stabilitu apod. jsou rozhodně pozoruhodné a odpovědi by určitě zaujaly nemálo lidí.
