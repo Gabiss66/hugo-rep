@@ -6,10 +6,19 @@
     <description>Recent content on Vliv fantazie na percepci reálného světa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 10:19:54 +0200</lastBuildDate>
     
 	<atom:link href="https://gabiss66.github.io/hugo-start-master/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Clanek2</title>
+      <link>https://gabiss66.github.io/hugo-start-master/post/clanek2/</link>
+      <pubDate>Wed, 02 May 2018 10:19:54 +0200</pubDate>
+      
+      <guid>https://gabiss66.github.io/hugo-start-master/post/clanek2/</guid>
+      <description>Specifick� modality z��itku studovali u mal�ch d�t� Fonagy a Targetov� a teoreticky je rozpracovali v polovin� devades�t�ch let dvac�t�ho stolet� (Fonagy; Target 1996 a, b,Vavrda 2005). Vych�zej� ze vstupn�ho p�edpokladu, �e d�ti ve v�ku 2 � 4 let zpravidla poj�maj� sv�t kolem sebe v modalit� (modu) tzv. �psychick� ekvivalence�. Tento modus se vyzna�uje t�m, �e d�t� v jeho r�mci neodli�uje svou osobn� hypot�zu o realit� (�co si mysl�m, �e to je�) od jej�ho ov��en� (�co to doopravdy je�).</description>
+    </item>
     
     <item>
       <title>All albums of The Beatles</title>
@@ -41,6 +50,15 @@ To add new posts, simply add a file in the content/post directory that follows t
       <description>title: Vliv fantazie na percepci reálného světa menu: main: weight: 30
 Vliv fantazie na percepci reálného světa Cílem je prozkoumat roli fantazie ve společnosti, jaký je její skutečný účel, a co pro nás znamená (jak ve smyslu naší představivosti, tak v knihách).
 Fantazie je životně důležitá pro lidskou mysl. Začíná to jako psychologický proces, kterým se dítě naučí naplnit mezery mezi znalostí, skutečností a zkušenostmi a stane se důležitým mechanismem pro zvládnutí různých situací v dospělosti.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gabiss66.github.io/hugo-start-master/post/~lanek2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabiss66.github.io/hugo-start-master/post/~lanek2/</guid>
+      <description>Nymeria�����������������������������������������������N�y�m�e�r�i�a������\�A�P�A�.�X�S�L����U�n�k�n�o�w�n�������������������������������������������</description>
     </item>
     
   </channel>

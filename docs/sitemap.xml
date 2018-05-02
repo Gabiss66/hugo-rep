@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/post/clanek2/</loc>
+    <lastmod>2018-05-02T10:19:54+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gabiss66.github.io/hugo-start-master/post/another-post/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -14,6 +19,10 @@
   
   <url>
     <loc>https://gabiss66.github.io/hugo-start-master/post/clanek/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gabiss66.github.io/hugo-start-master/post/~lanek2/</loc>
   </url>
   
   <url>
@@ -63,12 +72,12 @@
   
   <url>
     <loc>https://gabiss66.github.io/hugo-start-master/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-02T10:19:54+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://gabiss66.github.io/hugo-start-master/post/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-02T10:19:54+02:00</lastmod>
   </url>
   
 </urlset>
